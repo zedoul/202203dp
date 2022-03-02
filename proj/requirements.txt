@@ -1,0 +1,13 @@
+dm-tree
+matplotlib
+numpy
+pandas
+scipy
+scikit_learn
+tensorflow
+tensorflow-privacy
+bs4
+requests
+wget
+lxml
+zipfile38
