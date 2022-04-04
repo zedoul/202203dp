@@ -11,3 +11,5 @@ requests
 wget
 lxml
 zipfile38
+talos
+imblearn
